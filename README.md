@@ -1,0 +1,2 @@
+# smart-home
+A modern smart home using  Voice control technique. Seems like a normal thing,  right? Here is the twist, we have developed it in a such way that you neither have to replace your existing equipments with costlier IoT baes ones nor you have to change anything inside your current wirings. Control your all Electronic equipments using Voice control or Mobile application. With use of Mobile app, you can control it from outside your home as well.
